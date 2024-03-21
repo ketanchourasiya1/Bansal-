@@ -1,3 +1,1 @@
-# Ketan
-
-This is my first repository
+# Stellar-Workshop-Template
